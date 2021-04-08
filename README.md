@@ -25,4 +25,6 @@ laravelGoogleCustomSearchEngine.php
 - [HTML DOM Parser Example](https://github.com/juangsalaz/php-scrapping/blob/master/app/Exports/DataExport.php) 
 - Cron test : php artisan schedule:run 
 
-
+Login
+admin
+rk973na9UBTH
